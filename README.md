@@ -1,4 +1,4 @@
-# corona
+# Corona Cases
 
 A new Flutter project.
 
